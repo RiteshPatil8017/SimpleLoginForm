@@ -203,4 +203,7 @@ SimpleLoginForm/
         │   └── AdminHome.js# Admin Dashboard (Data Table)
         ├── App.js          # Navigation Routing
         └── App.css         # Styling
-🔗 API EndpointsMethodEndpointDescriptionPOST/registerSave new user details to MongoDBPOST/login-userVerify credentials & return User TypeGET/getAllUsersFetch list of all users (Admin Panel)👨‍💻 Author[Your Name]Developed as a MERN Stack Student Project.
+
+👨‍💻 Author
+Ritesh Patil
+Developed as a MERN Stack Student Project.
