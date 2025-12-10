@@ -37,7 +37,7 @@ Make sure you have the following installed:
 git clone <your-repository-url>
 cd MyMernProject
 
-3. Backend Setup
+### 3. Backend Setup
 The backend runs on Port 5000.
 
 Navigate to the backend folder:
