@@ -203,7 +203,3 @@ SimpleLoginForm/
         │   └── AdminHome.js# Admin Dashboard (Data Table)
         ├── App.js          # Navigation Routing
         └── App.css         # Styling
-
-👨‍💻 Author
-Ritesh Patil
-Developed as a MERN Stack Student Project.
