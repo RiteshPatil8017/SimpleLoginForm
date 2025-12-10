@@ -204,6 +204,6 @@ SimpleLoginForm/
         ├── App.js          # Navigation Routing
         └── App.css         # Styling
 
-**👨‍💻 Author**
+👨‍💻 **Author**
 Ritesh Patil
 Developed as a MERN Stack Student Project.
